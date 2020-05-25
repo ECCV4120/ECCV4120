@@ -50,8 +50,8 @@ vim fast-autoaugment/FastAutoAugment/genotype.py
 # Data
 You should put the data in ./data as below:
 ```
-./data/cifar-100-python
-./data/cifar-10-batches-py
+./data/cifar-100-python.tar.gz
+./data/cifar-10-python.tar.gz
 ./data/train_32x32.mat
 ./data/extra_32x32.mat
 ./data/test_32x32.mat

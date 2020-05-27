@@ -66,8 +66,8 @@ We will upload the training model in the near future.
 
 # Found Policy
 ## CIFAR10
-| Opeartion 1 | Opeartion 2|
--|-|-
+Sub-policy | Opeartion 1 | Opeartion 2|
+---|---|---
 sub-policy 0 | (TranslateX, 0.52, 0.58) | (Rotate, 0.57, 0.53)
 sub-policy 1 | (ShearX, 0.50, 0.46) | (Sharpness, 0.50, 0.54)
 sub-policy 2 | (Brightness, 0.56, 0.56) | (Sharpness, 0.52, 0.47)
